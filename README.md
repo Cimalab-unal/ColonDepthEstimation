@@ -1,9 +1,10 @@
 # SfSNet - Leveraging a realistic synthetic database to learn Shape-from-Shading for estimating the colon depth in colonoscopy images
 
-Josué Ruano(a), Martín Gómez(b), Eduardo Romero(a),∗ and Antoine Manzanera(c)
-(a) Computer Imaging and Medical Applications Laboratory (CIM@LAB), Universidad Nacional de Colombia, 111321, Bogotá, Colombia
-(b) Unidad de Gastroenterología, Hospital Universitario Nacional, 111321, Bogotá, Colombia
-(c) Unité d’Informatique et d’Ingénierie des Systémes (U2IS), ENSTA Paris, Institut Polytechnique de Paris, Palaiseau, 91762, Ile de France, France
+Josué Ruano(a), Martín Gómez(b), Eduardo Romero(a), and Antoine Manzanera(c)
+
+(a) Computer Imaging and Medical Applications Laboratory (CIM@LAB), Universidad Nacional de Colombia, 111321, Bogotá, Colombia.<br>
+(b) Unidad de Gastroenterología, Hospital Universitario Nacional, 111321, Bogotá, Colombia.<br>
+(c) Unité d’Informatique et d’Ingénierie des Systémes (U2IS), ENSTA Paris, Institut Polytechnique de Paris, Palaiseau, 91762, Ile de France, France.
 
 <img src="graphical_abstract.png?raw=True" width="800px" style="margin:0px 0px"/>
 
