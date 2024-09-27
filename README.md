@@ -33,3 +33,13 @@ Notes:
 At the link below you can request access to the database.
 
 https://forms.gle/USQkvguACcNTeGH26
+
+# Latest work:
+
+We invite you to see our latest work accepted in IEEE International Symposium on Biomedical Imaging (ISBI), where we use SfSNet to estimate the size of polyps. We provide ground-truth size of synthetic polyps and our results.
+
+<img src="polyp_size_pipeline.png?raw=True" width="800px" style="margin:0px 0px"/>
+
+Ruano, J., Bravo, D., Giraldo, D., Gómez, M., González, F. A., Manzanera, A., & Romero, E. (2024, May). __Estimating Polyp Size From a Single Colonoscopy Image Using a Shape-From-Shading Model__. In 2024 IEEE International Symposium on Biomedical Imaging (ISBI). IEEE. [DOI](https://doi.org/10.1109/ISBI56570.2024.10635358)
+
+Repository: [Github](https://github.com/jaruanob/PolypSizeEstimation_SfSNet) 
